@@ -6,8 +6,8 @@
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
       "Nome": { "Letra": [0,0,0], "Borda": [255,255,255] },
-      "Patente": { "Letra": [0,0,0], "Borda": [27,0,0] },
-      "Team": { "Letra": [0,0,0], "Borda": [27,0,0] }
+      "Patente": { "Letra": [0,0,0], "Borda": [0.309804,0,0] },
+      "Team": { "Letra": [0,0,0], "Borda": [0.309804,0,0] }
     }
   }
 }
