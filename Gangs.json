@@ -2,7 +2,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 50000,
-    "Itens": { "Kokusen": 2 },
+    "Itens": { "Kokusen": 2, FireKick: 2 },
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
       "Nome": { "Letra": [0,0,0], "Borda": [255,255,255] },
