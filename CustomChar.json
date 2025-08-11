@@ -2,6 +2,9 @@
   "PlayerPermission": {
     "logui122_X": {
       "Tier": 1000
+    },
+   "SagaDeveloper": {
+      "Tier": 1000
     }
   },
   "Characters": {
