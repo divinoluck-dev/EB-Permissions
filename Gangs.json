@@ -10,4 +10,16 @@
       "Team": { "Letra": [0,0,0], "Borda": [0.309804,0,0] }
     }
   },
+
+  "33284171": {
+    "Name": "Bat-Family",
+    "Health": 10000,
+    "Itens": { "Kokusen": 2, "FireKick": 2 },
+    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Colors": {
+      "Nome": { "Letra": [0,0,0], "Borda": [0.690196,0.101961,0.101961] },
+      "Patente": { "Letra": [0,0,0], "Borda": [0.690196,0.101961,0.101961] },
+      "Team": { "Letra": [0,0,0], "Borda": [0.690196,0.101961,0.101961] }
+    }
+  }
 }
