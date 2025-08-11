@@ -2,7 +2,7 @@
  "33284171": {
     "Name": "Luas Superiores",
     "Health": 100000,
-    "Itens": { "Kokusen": 2, "FireKick": 2 },
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
       "Nome": { "Letra": [0,0,0], "Borda": [255,255,255] },
@@ -14,7 +14,7 @@
   "34271955": {
     "Name": "Bat-Family",
     "Health": 10000,
-    "Itens": { "Kokusen": 2, "FireKick": 2 },
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
       "Nome": { "Letra": [0,0,0], "Borda": [0.690196,0.101961,0.101961] },
@@ -26,7 +26,7 @@
     "34976153": {
     "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": { "Kokusen": 2, "FireKick": 2 },
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
       "Nome": { "Letra": [0,0,0], "Borda": [255,255,255] },
