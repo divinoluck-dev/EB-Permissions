@@ -1,25 +1,29 @@
 {
-  "PlayerPermission": {
-    "logui122_X": {
-      "Tier": 1000
+    "PlayerPermission": {
+        "logui122_X": {
+            "Tier": 1000
+        }
     },
-   "SagaDeveloper": {
-      "Tier": 1000
+    "Characters": {
+        "Gojo": {
+            "Tier": 1,
+            "Permission": {},
+            "Presets": {
+                "Position": {
+                    "Position": [
+                        0,
+                        -1,
+                        -5.35
+                    ],
+                    "Orientation": [
+                        0,
+                        180,
+                        0
+                    ]
+                },
+                "AssetId": "103527026591265",
+                "IdleAnimationId": "98441535473987"
+            }
+        }
     }
-  },
-  "Characters": {
-    "Gojo": {
-      "Tier": 1,
-      "Permission": {},
-      "Presets": {
-        "Position": {
-          "Position": [0, -1, -5.35],
-          "Orientation": [0, 180, 0]
-        },
-        "AssetId": "103527026591265",
-        "IdleAnimationId": "98441535473987"
-      }
-    }
-    
-  }
 }
