@@ -13,10 +13,10 @@
             "Tier": 1000
         },
          "Bloodya911": {
-            "Tier": 1
+            "Tier": 50
         },
          "GIqTXvPQArG": {
-            "Tier": 1
+            "Tier": 50
         }
     },
     "Characters": {
@@ -26,7 +26,7 @@
             "ImageID": 103953194753301
         },
         "Meliodas": {
-            "Tier": 100,
+            "Tier": 50,
             "Permission": {},
             "ImageID": 103610124487112
         },
