@@ -12,27 +12,21 @@
         "JuninhoPlayysss": {
             "Tier": 1000
         },
-         "Bloodya911": {
-            "Tier": 50
-        },
-         "GIqTXvPQArG": {
-            "Tier": 50
-        }
     },
     "Characters": {
         "Baki": {
             "Tier": 1,
-            "Permission": {},
+            "Permission": [7396145974, 7524484692],
             "ImageID": 103953194753301
         },
         "Meliodas": {
             "Tier": 50,
-            "Permission": {},
+            "Permission": [7396145974, 7524484692],
             "ImageID": 103610124487112
         },
          "Enrico": {
             "Tier": 100,
-            "Permission": {},
+            "Permission": [],
             "ImageID": 79964775182960
         }
     }
