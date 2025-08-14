@@ -21,7 +21,7 @@
     },
     "Characters": {
         "Baki": {
-            "Tier": 50,
+            "Tier": 1,
             "Permission": {},
             "ImageID": 103953194753301
         },
@@ -29,6 +29,11 @@
             "Tier": 100,
             "Permission": {},
             "ImageID": 103610124487112
+        },
+         "Enrico": {
+            "Tier": 100,
+            "Permission": {},
+            "ImageID": 79964775182960
         }
     }
 }
