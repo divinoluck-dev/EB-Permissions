@@ -16,15 +16,21 @@
     "Characters": {
         "Baki": {
             "Tier": 1,
-            "Permission": [7396145974, 7524484692],
+            "Permission": [
+                7396145974,
+                7524484692
+            ],
             "ImageID": 103953194753301
         },
         "Meliodas": {
             "Tier": 50,
-            "Permission": [7396145974, 7524484692],
+            "Permission": [
+                7396145974,
+                7524484692
+            ],
             "ImageID": 103610124487112
         },
-         "Enrico": {
+        "Enrico": {
             "Tier": 100,
             "Permission": [],
             "ImageID": 79964775182960
