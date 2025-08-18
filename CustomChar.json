@@ -46,7 +46,9 @@
         },
            "Subaru": {
             "Tier": 100,
-            "Permission": [],
+            "Permission": [
+                3343455115
+            ],
             "ImageID": 103991282927018
         }
     }
