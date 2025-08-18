@@ -33,6 +33,18 @@
       "Patente": { "Letra": [0,0,0], "Borda": [0.309804,0,0] },
       "Team": { "Letra": [0,0,0], "Borda": [0.309804,0,0] }
     }
+  },
+
+    "35283892": {
+    "Name": "Subaru routes",
+    "Health": 1000,
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
+    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Colors": {
+      "Nome": { "Letra": [0,0,0], "Borda": [0.0, 0.392, 0.0] },
+      "Patente": { "Letra": [0,0,0], "Borda": [0.0, 0.392, 0.0] },
+      "Team": { "Letra": [0,0,0], "Borda": [0.0, 0.392, 0.0] }
+    }
   }
 
 }
