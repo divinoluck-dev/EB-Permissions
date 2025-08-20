@@ -2,12 +2,7 @@
   "33284171": {
     "Name": "Luas Superiores",
     "Health": 100000,
-    "Itens": {
-      "Kokusen": 2,
-      "FireKick": 2,
-      "Rasteira": 2,
-      "DoubleJump": 2
-    },
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2, "DoubleJump": 2 },
     "Roupa": {
       "Shirt": 0,
       "Pants": 0
@@ -15,27 +10,22 @@
     "Colors": {
       "Nome": {
         "Letra": [0, 0, 0],
-        "Borda": [255, 255, 255]
+        "Borda": [0.258824, 0, 0]
       },
       "Patente": {
         "Letra": [0, 0, 0],
-        "Borda": [79, 0, 0]
+        "Borda": [0.258824, 0, 0]
       },
       "Team": {
         "Letra": [0, 0, 0],
-        "Borda": [79, 0, 0]
+        "Borda": [0.258824, 0, 0]
       }
     }
   },
   "34271955": {
     "Name": "Bat-Family",
     "Health": 10000,
-    "Itens": {
-      "Kokusen": 2,
-      "FireKick": 2,
-      "Rasteira": 2,
-      "DoubleJump": 2
-    },
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": {
       "Shirt": 0,
       "Pants": 0
@@ -43,43 +33,38 @@
     "Colors": {
       "Nome": {
         "Letra": [0, 0, 0],
-        "Borda": [72, 0, 22]
+        "Borda": [0.729412, 0, 0.228431]
       },
       "Patente": {
         "Letra": [0, 0, 0],
-        "Borda": [72, 0, 22]
+        "Borda": [0.729412, 0, 0.228431]
       },
       "Team": {
         "Letra": [0, 0, 0],
-        "Borda": [72, 0, 22]
+        "Borda": [0.729412, 0, 0.228431]
       }
     }
   },
   "34976153": {
     "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": {
-      "Kokusen": 2,
-      "FireKick": 2,
-      "Rasteira": 2,
-      "DoubleJump": 2
-    },
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": {
       "Shirt": 0,
       "Pants": 0
     },
-    "Colors": {
+   "Colors": {
       "Nome": {
         "Letra": [0, 0, 0],
-        "Borda": [255, 255, 255]
+        "Borda": [0.258824, 0, 0]
       },
       "Patente": {
         "Letra": [0, 0, 0],
-        "Borda": [79, 0, 0]
+        "Borda": [0.258824, 0, 0]
       },
       "Team": {
         "Letra": [0, 0, 0],
-        "Borda": [79, 0, 0]
+        "Borda": [0.258824, 0, 0]
       }
     }
   },
@@ -114,12 +99,7 @@
   "16225202": {
     "Name": "Eclipse Crimson",
     "Health": 1000,
-    "Itens": {
-      "Kokusen": 2,
-      "FireKick": 2,
-      "Rasteira": 2,
-      "DoubleJump": 2
-    },
+    "Itens": { "Kokusen": 2 },
     "Roupa": {
       "Shirt": 0,
       "Pants": 0
@@ -127,15 +107,15 @@
     "Colors": {
       "Nome": {
         "Letra": [0, 0, 0],
-        "Borda": [0, 0, 0]
+        "Borda": [1.0, 0.647, 0.0]
       },
       "Patente": {
         "Letra": [0, 0, 0],
-        "Borda": [0, 0, 0]
+        "Borda": [1.0, 0.647, 0.0]
       },
       "Team": {
         "Letra": [0, 0, 0],
-        "Borda": [0, 0, 0]
+        "Borda": [1.0, 0.647, 0.0]
       }
     }
   }
