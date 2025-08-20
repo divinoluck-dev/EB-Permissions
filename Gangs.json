@@ -1,63 +1,143 @@
 {
- "33284171": {
+  "33284171": {
     "Name": "Luas Superiores",
     "Health": 100000,
-    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2, "DoubleJump": 2 },
-    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Itens": {
+      "Kokusen": 2,
+      "FireKick": 2,
+      "Rasteira": 2,
+      "DoubleJump": 2
+    },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
     "Colors": {
-      "Nome": { "Letra": [0,0,0], "Borda": [255,255,255] },
-      "Patente": { "Letra": [0,0,0], "Borda": [0.309804,0,0] },
-      "Team": { "Letra": [0,0,0], "Borda": [0.309804,0,0] }
+      "Nome": {
+        "Letra": [0, 0, 0],
+        "Borda": [255, 255, 255]
+      },
+      "Patente": {
+        "Letra": [0, 0, 0],
+        "Borda": [79, 0, 0]
+      },
+      "Team": {
+        "Letra": [0, 0, 0],
+        "Borda": [79, 0, 0]
+      }
     }
   },
-  
   "34271955": {
     "Name": "Bat-Family",
     "Health": 10000,
-    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
-    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Itens": {
+      "Kokusen": 2,
+      "FireKick": 2,
+      "Rasteira": 2,
+      "DoubleJump": 2
+    },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
     "Colors": {
-      "Nome": { "Letra": [0,0,0], "Borda": [0.282353, 0, 0.0862745] },
-      "Patente": { "Letra": [0,0,0], "Borda": [0.282353, 0, 0.0862745] },
-      "Team": { "Letra": [0,0,0], "Borda": [0.282353, 0, 0.0862745] }
+      "Nome": {
+        "Letra": [0, 0, 0],
+        "Borda": [72, 0, 22]
+      },
+      "Patente": {
+        "Letra": [0, 0, 0],
+        "Borda": [72, 0, 22]
+      },
+      "Team": {
+        "Letra": [0, 0, 0],
+        "Borda": [72, 0, 22]
+      }
     }
   },
-  
-    "34976153": {
+  "34976153": {
     "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
-    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Itens": {
+      "Kokusen": 2,
+      "FireKick": 2,
+      "Rasteira": 2,
+      "DoubleJump": 2
+    },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
     "Colors": {
-      "Nome": { "Letra": [0,0,0], "Borda": [255,255,255] },
-      "Patente": { "Letra": [0,0,0], "Borda": [0.309804,0,0] },
-      "Team": { "Letra": [0,0,0], "Borda": [0.309804,0,0] }
+      "Nome": {
+        "Letra": [0, 0, 0],
+        "Borda": [255, 255, 255]
+      },
+      "Patente": {
+        "Letra": [0, 0, 0],
+        "Borda": [79, 0, 0]
+      },
+      "Team": {
+        "Letra": [0, 0, 0],
+        "Borda": [79, 0, 0]
+      }
     }
   },
-
-    "35283892": {
+  "35283892": {
     "Name": "Subaru routes",
     "Health": 1000,
-    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
-    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Itens": {
+      "Kokusen": 2,
+      "FireKick": 2,
+      "Rasteira": 2,
+      "DoubleJump": 2
+    },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
     "Colors": {
-      "Nome": { "Letra": [0,0,0], "Borda": [0, 0.392, 0] },
-      "Patente": { "Letra": [0,0,0], "Borda": [0, 0.392, 0] },
-      "Team": { "Letra": [0,0,0], "Borda": [0, 0.392, 0] }
+      "Nome": {
+        "Letra": [0, 0, 0],
+        "Borda": [0, 100, 0]
+      },
+      "Patente": {
+        "Letra": [0, 0, 0],
+        "Borda": [0, 100, 0]
+      },
+      "Team": {
+        "Letra": [0, 0, 0],
+        "Borda": [0, 100, 0]
+      }
     }
   },
-
-    "16225202": {
+  "16225202": {
     "Name": "Eclipse Crimson",
     "Health": 1000,
-    "Itens": { "Kokusen": 2 },
-    "Roupa": { "Shirt": 0, "Pants": 0 },
+    "Itens": {
+      "Kokusen": 2,
+      "FireKick": 2,
+      "Rasteira": 2,
+      "DoubleJump": 2
+    },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
     "Colors": {
-      "Nome": { "Letra": [0,0,0], "Borda": [0,0,0] },
-      "Patente": { "Letra": [0,0,0], "Borda": [0,0,0] },
-      "Team": { "Letra": [0,0,0], "Borda": [0,0,0] }
+      "Nome": {
+        "Letra": [0, 0, 0],
+        "Borda": [0, 0, 0]
+      },
+      "Patente": {
+        "Letra": [0, 0, 0],
+        "Borda": [0, 0, 0]
+      },
+      "Team": {
+        "Letra": [0, 0, 0],
+        "Borda": [0, 0, 0]
+      }
     }
   }
-
-
 }
+
