@@ -14,6 +14,9 @@
         },
          "Cabecaredonda_8": {
             "Tier": 100
+        },
+        "ANTONYjejj": {
+            "Tier": 100
         }
     },
     "Characters": {
@@ -40,19 +43,17 @@
             "ImageID": 79964775182960
         },
         "Sukuna": {
-            "Tier": 100,
+            "Tier": 200,
             "Permission": [],
             "ImageID": 125075795223226
         },
            "Subaru": {
             "Tier": 100,
-            "Permission": [
-                3343455115
-            ],
+            "Permission": [],
             "ImageID": 103991282927018
         },
           "Armin": {
-            "Tier": 100,
+            "Tier": 1000,
             "Permission": [
                 3343455115
             ],
