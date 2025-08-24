@@ -22,6 +22,8 @@
       }
     }
   },
+
+  
   "34271955": {
     "Name": "Bat-Family",
     "Health": 10000,
@@ -45,6 +47,8 @@
       }
     }
   },
+
+  
   "34976153": {
     "Name": "SoloNoCB",
     "Health": 1000,
@@ -68,6 +72,8 @@
       }
     }
   },
+
+  
   "35283892": {
     "Name": "Subaru routes",
     "Health": 1000,
@@ -91,6 +97,8 @@
       }
     }
   },
+
+  
   "16225202": {
     "Name": "Eclipse Crimson",
     "Health": 1000,
@@ -113,6 +121,32 @@
         "Borda": [1.0, 0.647, 0.0]
       }
     }
+  },
+
+   "34412637": {
+    "Name": "Mushoku Tensei",
+    "Health": 1000,
+    "Itens": { "Kokusen": 2, "Rasteira": 2 },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
+    "Colors": {
+      "Nome": {
+        "Letra": [1, 1, 1],
+        "Borda": [1, 1, 1]
+      },
+      "Patente": {
+        "Letra": [1, 1, 1],
+        "Borda": [1, 1, 1]
+      },
+      "Team": {
+        "Letra": [1, 1, 1],
+        "Borda": [1, 1, 1]
+      }
+    }
   }
+
+  
 }
 
