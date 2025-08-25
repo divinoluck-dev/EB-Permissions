@@ -50,7 +50,9 @@
         },
         "Enrico": {
             "Tier": 1,
-            "Permission": [],
+            "Permission": [
+                9257075559
+            ],
             "ImageID": 79964775182960
         },
         "Sukuna": {
