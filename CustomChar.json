@@ -20,6 +20,9 @@
         },
         "ANTONYjejj": {
             "Tier": 100
+        },
+        "ZzLuckZzx": {
+            "Tier": 1
         }
     },
     "Characters": {
@@ -47,16 +50,16 @@
             "ImageID": 79964775182960
         },
         "Sukuna": {
-            "Tier": 200,
+            "Tier": 100,
             "Permission": [],
             "ImageID": 125075795223226
         },
-           "Subaru": {
+        "Subaru": {
             "Tier": 1,
             "Permission": [],
             "ImageID": 103991282927018
         },
-          "Armin": {
+        "Armin": {
             "Tier": 1000,
             "Permission": [
                 3343455115
