@@ -73,6 +73,31 @@
     }
   },
 
+  "35670782": {
+    "Name": "War Invencible",
+    "Health": 1000,
+    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
+   "Colors": {
+      "Nome": {
+        "Letra": [1, 1, 1],
+        "Borda": [1, 0.988, 0.255]
+      },
+      "Patente": {
+        "Letra": [1, 1, 1],
+        "Borda": [1, 0.988, 0.255]
+      },
+      "Team": {
+        "Letra": [1, 1, 1],
+        "Borda": [1, 0.988, 0.255]
+      }
+    }
+  },
+
+
   "33046359": {
     "Name": "鬼 Caçadores de Onis 鬼",
     "Health": 1000,
