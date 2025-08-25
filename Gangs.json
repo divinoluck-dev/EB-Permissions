@@ -175,7 +175,7 @@
    "34115620": {
     "Name": "Super Family",
     "Health": 1000,
-    "Itens": { "Kokusen": 2 },
+    "Itens": { "Kokusen": 2, "Rasteira": 2 },
     "Roupa": {
       "Shirt": 0,
       "Pants": 0
