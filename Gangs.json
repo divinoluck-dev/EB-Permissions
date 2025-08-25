@@ -172,6 +172,30 @@
     }
   },
 
+   "34115620": {
+    "Name": "Super Family",
+    "Health": 1000,
+    "Itens": { "Kokusen": 2 },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
+    "Colors": {
+      "Nome": {
+        "Letra": [0, 0, 0],
+        "Borda": [1.0, 0, 0.0]
+      },
+      "Patente": {
+        "Letra": [0, 0, 0],
+        "Borda": [1.0, 0, 0.0]
+      },
+      "Team": {
+        "Letra": [0, 0, 0],
+        "Borda": [1.0, 0, 0.0]
+      }
+    }
+  },
+
    "34412637": {
     "Name": "Mushoku Tensei",
     "Health": 1000,
