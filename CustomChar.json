@@ -33,7 +33,7 @@
             "ImageID": 103953194753301
         },
         "Meliodas": {
-            "Tier": 50,
+            "Tier": 1,
             "Permission": [
                 7396145974,
                 7524484692,
@@ -42,7 +42,7 @@
             "ImageID": 103610124487112
         },
         "Enrico": {
-            "Tier": 100,
+            "Tier": 1,
             "Permission": [],
             "ImageID": 79964775182960
         },
@@ -52,7 +52,7 @@
             "ImageID": 125075795223226
         },
            "Subaru": {
-            "Tier": 100,
+            "Tier": 1,
             "Permission": [],
             "ImageID": 103991282927018
         },
