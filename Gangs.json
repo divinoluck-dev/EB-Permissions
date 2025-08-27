@@ -122,6 +122,30 @@
     }
   },
 
+ "597629638": {
+    "Name": "想想ARRANCARS想想",
+    "Health": 1000,
+    "Itens": { "Kokusen": 2, "Rasteira": 2 },
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
+   "Colors": {
+      "Nome": {
+        "Letra": [0.46, 0, 0.9],
+        "Borda": [0, 0, 0]
+      },
+      "Patente": {
+        "Letra": [0.46, 0, 0.9],
+        "Borda": [0, 0, 0]
+      },
+      "Team": {
+        "Letra": [0.46, 0, 0.9],
+        "Borda": [0, 0, 0]
+      }
+    }
+  },
+
   
   "35283892": {
     "Name": "Yeageristas",
