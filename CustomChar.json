@@ -72,6 +72,11 @@
             ],
             "ImageID": 105648698997308
         },
+        "Giorno": {
+            "Tier": 1000,
+            "Permission": [],
+            "ImageID": 112903681985570
+        },
         "D4C": {
             "Tier": 100,
             "Permission": [],
