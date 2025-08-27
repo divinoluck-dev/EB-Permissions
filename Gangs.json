@@ -48,7 +48,7 @@
   },
 
   "35670782": {
-    "Name": "War Invencible",
+    "Name": "Máfia da Passione",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": {
@@ -57,16 +57,16 @@
     },
    "Colors": {
       "Nome": {
-        "Letra": [1, 1, 1],
-        "Borda": [1, 0.988, 0.255]
+        "Letra": [1, 0.988, 0.224],
+        "Borda": [0.659, 0, 0.91]
       },
       "Patente": {
-        "Letra": [1, 1, 1],
-        "Borda": [1, 0.988, 0.255]
+        "Letra": [1, 0.988, 0.224],
+        "Borda": [0.659, 0, 0.91]
       },
       "Team": {
-        "Letra": [1, 1, 1],
-        "Borda": [1, 0.988, 0.255]
+        "Letra": [1, 0.988, 0.224],
+        "Borda": [0.659, 0, 0.91]
       }
     }
   },
