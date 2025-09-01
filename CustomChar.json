@@ -93,6 +93,13 @@
             "Permission": [],
             "ImageID": 112903681985570
         },
+        "Guissi": {
+            "Tier": 1000,
+            "Permission": [
+                982811126
+            ],
+            "ImageID": 112903681985570
+        },
         "D4C": {
             "Tier": 100,
             "Permission": [],
