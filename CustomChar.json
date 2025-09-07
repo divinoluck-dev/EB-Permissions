@@ -109,6 +109,11 @@
             "Tier": 1,
             "Permission": [],
             "ImageID": 113089955878697
+        },
+        "Toji": {
+            "Tier": 100,
+            "Permission": [],
+            "ImageID": 102136822840768
         }
     }
 }
