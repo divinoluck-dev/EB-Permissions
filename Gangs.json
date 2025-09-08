@@ -217,8 +217,8 @@
     }
   },
 
-   "34412637": {
-    "Name": "Mushoku Tensei",
+   "33679060": {
+    "Name": "Eternity",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "Rasteira": 2 },
     "Roupa": {
@@ -227,15 +227,15 @@
     },
     "Colors": {
       "Nome": {
-        "Letra": [1, 1, 1],
+        "Letra": [0, 0, 0],
         "Borda": [1, 1, 1]
       },
       "Patente": {
-        "Letra": [1, 1, 1],
+        "Letra": [0, 0, 0],
         "Borda": [1, 1, 1]
       },
       "Team": {
-        "Letra": [1, 1, 1],
+        "Letra": [0, 0, 0],
         "Borda": [1, 1, 1]
       }
     }
