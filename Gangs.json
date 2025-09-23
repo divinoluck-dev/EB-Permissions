@@ -244,3 +244,26 @@
   
 }
 
+"33082127": {
+    "Name": "Tokyo Manji Gang",
+    "Health": 10000,
+    "Itens": { "Kokusen": 2, "Rasteira": 2, "FireKick": 2, "DoubleJump": 2},
+    "Roupa": {
+      "Shirt": 0,
+      "Pants": 0
+    },
+   "Colors": {
+      "Nome": {
+        "Letra": [0, 0, 0],
+        "Borda": [0.729412, 0, 0.228431]
+      },
+      "Patente": {
+        "Letra": [0, 0, 0],
+        "Borda": [0.729412, 0, 0.228431]
+      },
+      "Team": {
+        "Letra": [0, 0, 0],
+        "Borda": [0.729412, 0, 0.228431]
+      }
+    }
+  },
