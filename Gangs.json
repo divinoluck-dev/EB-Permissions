@@ -95,10 +95,10 @@
     }
   },
 
-  "33046359": {
+  "529553621": {
     "Name": "鬼 Caçadores de Onis 鬼",
-    "Health": 1000,
-    "Itens": { "Kokusen": 2, "Rasteira": 2 },
+    "Health": 10000,
+    "Itens": { "Kokusen": 2, "Rasteira": 2, "FireKick": 2 },
     "Roupa": {
       "Shirt": 0,
       "Pants": 0
