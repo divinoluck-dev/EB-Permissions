@@ -110,7 +110,7 @@
         },
          "Escanor": {
             "Tier": 1,
-            "Permission": [],
+            "Permission": [1209306073],
             "ImageID": 113089955878697
         },
         "Toji": {
