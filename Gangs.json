@@ -23,7 +23,7 @@
     }
   },
   
-  "34976153": {
+  "nill": {
     "Name": "Moebius Gang",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
@@ -47,7 +47,7 @@
     }
   },
 
-  "33082127": {
+  "nill": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
@@ -71,7 +71,7 @@
     }
   },
   
-    "34271955": {
+    "nill": {
     "Name": "Bat-Family",
     "Health": 10000,
     "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
@@ -95,7 +95,7 @@
     }
   },
 
-  "33046359": {
+  "nill": {
     "Name": "鬼 Esquadrão Caçadores de Onis 鬼",
     "Health": 10000,
     "Itens": { "Kokusen": 2, "Rasteira": 2, "FireKick": 2, "DoubleJump": 2},
@@ -119,7 +119,7 @@
     }
   },
 
- "597629638": {
+ "nill": {
     "Name": "ARRANCARS",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "Rasteira": 2 },
@@ -144,7 +144,7 @@
   },
 
   
-  "35283892": {
+  "nill": {
     "Name": "Discípulos do frosty",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
@@ -169,7 +169,7 @@
   },
 
   
-  "16225202": {
+  "nill": {
     "Name": "Eclipse Crimson",
     "Health": 1000,
     "Itens": { "Kokusen": 2 },
@@ -193,7 +193,7 @@
     }
   },
 
-   "34115620": {
+   "nill": {
     "Name": "Super Family",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "Rasteira": 2 },
@@ -217,7 +217,7 @@
     }
   },
 
-   "33679060": {
+   "nill": {
     "Name": "Eternity",
     "Health": 1000,
     "Itens": { "Kokusen": 2, "Rasteira": 2 },
