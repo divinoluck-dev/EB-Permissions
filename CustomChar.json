@@ -9,71 +9,32 @@
         "ZzLuckZzx": {
             "Tier": 1000
         },
-        "ZzLuckZzx": {
-            "Tier": 1000
-        },
-        "ZzLuckZzx": {
-            "Tier": 1000
-        },
-        "ZzLuckZzx": {
-            "Tier": 1000
-        },
         "XXXXxTREMBALA1": {
             "Tier": 100
         },
-        "ZzLuckZzx": {
-            "Tier": 1
-        },
-       "ZzLuckZzx": {
+        "gabrieltotuber": {
             "Tier": 100
-        },
-       "ZzLuckZzx": {
-            "Tier": 100
-        },
-       "ZzLuckZzx": {
-            "Tier": 1
-        },
-         "gabrieltotuber": {
-            "Tier": 100
-        },
-        "ZzLuckZzx": {
-            "Tier": 1000
         }
     },
     "Characters": {
         "Baki": {
             "Tier": 1,
-            "Permission": [
-                1,
-                1,
-                1,
-            ],
+            "Permission": [1, 1, 1],
             "ImageID": 103953194753301
         },
         "Meliodas": {
             "Tier": 1,
-            "Permission": [
-                1,
-                1,
-                1,
-                1,
-                1
-            ],
+            "Permission": [1, 1, 1, 1, 1],
             "ImageID": 103610124487112
         },
         "Enrico": {
             "Tier": 1,
-            "Permission": [
-                1,
-                1
-            ],
+            "Permission": [1, 1],
             "ImageID": 79964775182960
         },
         "Sukuna": {
             "Tier": 100,
-            "Permission": [
-                1
-            ],
+            "Permission": [1],
             "ImageID": 125075795223226
         },
         "Subaru": {
@@ -83,9 +44,7 @@
         },
         "Armin": {
             "Tier": 1000,
-            "Permission": [
-                1
-            ],
+            "Permission": [1],
             "ImageID": 105648698997308
         },
         "Giorno": {
@@ -95,9 +54,7 @@
         },
         "Guissi": {
             "Tier": 1000,
-            "Permission": [
-                1
-            ],
+            "Permission": [1],
             "ImageID": 112903681985570
         },
         "D4C": {
@@ -105,7 +62,7 @@
             "Permission": [],
             "ImageID": 116216959518179
         },
-         "Escanor": {
+        "Escanor": {
             "Tier": 1,
             "Permission": [],
             "ImageID": 113089955878697
