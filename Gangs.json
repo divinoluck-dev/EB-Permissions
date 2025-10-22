@@ -29,7 +29,7 @@
     "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
-      "Nome": { "Letra": [0, 0, 0], "Borda": [1, 1, 1] },
+      "Nome": { "Letra": [0, 0, 0], "Borda": [0.4, 0, 0] },
       "Patente": { "Letra": [0, 0, 0], "Borda": [0.4, 0, 0] },
       "Team": { "Letra": [0, 0, 0], "Borda": [0.4, 0, 0] }
     }
@@ -65,9 +65,9 @@
     "Itens": { "Kokusen": 2, "Rasteira": 2 },
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
-      "Nome": { "Letra": [1, 1, 0], "Borda": [0, 1, 0] },
-      "Patente": { "Letra": [1, 1, 0], "Borda": [0, 1, 0] },
-      "Team": { "Letra": [1, 1, 0], "Borda": [0, 1, 0] }
+      "Nome": { "Letra": [0, 0, 0], "Borda": [0, 1, 0] },
+      "Patente": { "Letra": [0, 0, 0], "Borda": [0, 1, 0] },
+      "Team": { "Letra": [0, 0, 0], "Borda": [0, 1, 0] }
     }
   },
 
@@ -77,9 +77,9 @@
     "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
     "Roupa": { "Shirt": 0, "Pants": 0 },
     "Colors": {
-      "Nome": { "Letra": [0, 0, 0], "Borda": [0, 100, 0] },
-      "Patente": { "Letra": [0, 0, 0], "Borda": [0, 100, 0] },
-      "Team": { "Letra": [0, 0, 0], "Borda": [0, 100, 0] }
+      "Nome": { "Letra": [0, 0, 0], "Borda": [0, 0.39, 0] },
+      "Patente": { "Letra": [0, 0, 0], "Borda": [0, 0.39, 0] },
+      "Team": { "Letra": [0, 0, 0], "Borda": [0, 0.39, 0] }
     }
   },
 
