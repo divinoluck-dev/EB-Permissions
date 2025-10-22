@@ -1,45 +1,30 @@
 {
-    "PlayerPermission": {
-        "ZzLuckZzx": {
-            "Tier": 1000,
-            "Description": "Dono e criador do universo",
-            "Color": "Blue"
-        },
-        "XXXXxTREMBALA1": {
-            "Tier": 100,
-            "Description": "O guerreiro relâmpago",
-            "Color": "Yellow"
-        },
-        "DarkLuffy128": {
-            "Tier": 1000,
-            "Description": "O rei das trevas",
-            "Color": "Red"
-        }
+    "DarkLuffy128": {
+        "Tier": 1,
+        "Permission": [1, 1],
+        "ImageID": 103953194753301,
+        "Description": "O jovem lutador que busca ser o mais forte do mundo.",
+        "Color": "Orange"
     },
-    "Characters": {
-        "Baki": {
-            "Tier": 1,
-            "Permission": [1, 1, 1],
-            "ImageID": 103953194753301,
-            "Description": "O jovem lutador que busca ser o mais forte do mundo.",
-            "Color": "Orange"
-        },
-        "Meliodas": {
-            "Tier": 1,
-            "Permission": [1, 1, 1, 1, 1],
-            "ImageID": 103610124487112,
-            "Description": "O pecado da ira, pequeno mas extremamente poderoso.",
-            "Color": "Gold"
-        },
-        "Enrico": {
-            "Tier": 1,
-            "Permission": [1, 1],
-            "ImageID": 79964775182960,
-            "Description": "Um guerreiro determinado com espírito nobre.",
-            "Color": "Green"
-        },
-        "Sukuna": {
-            "Tier": 100,
-            "Permission": [1],
-            "ImageID": 125075795223226,
-            "Description": "O rei das maldições, poder absoluto e temido por to
+    "Meliodas": {
+        "Tier": 1,
+        "Permission": [1, 1, 1, 1, 1],
+        "ImageID": 103610124487112,
+        "Description": "O pecado da ira, pequeno mas extremamente poderoso.",
+        "Color": "Gold"
+    },
+    "Enrico": {
+        "Tier": 1,
+        "Permission": [1, 1],
+        "ImageID": 79964775182960,
+        "Description": "Um guerreiro determinado com espírito nobre.",
+        "Color": "Green"
+    },
+    "Sukuna": {
+        "Tier": 100,
+        "Permission": [1],
+        "ImageID": 125075795223226,
+        "Description": "O rei das maldições, poder absoluto e temido por todos.",
+        "Color": "Red"
+    }
+}
