@@ -71,10 +71,10 @@
     }
   },
   
-    "nill": {
-    "Name": "Bat-Family",
+    "110646051": {
+    "Name": "Shinigami the generetion",
     "Health": 10000,
-    "Itens": { "Kokusen": 2, "FireKick": 2, "Rasteira": 2 },
+    "Itens": { "Kokusen": 2, "Rasteira": 2 },
     "Roupa": {
       "Shirt": 0,
       "Pants": 0
