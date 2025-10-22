@@ -8,6 +8,9 @@
         },
         "DarkLuffy128": {
             "Tier": 1000
+        },
+        "lucas68731": {
+            "Tier": 1
         }
     },
     "Characters": {
@@ -23,12 +26,12 @@
         },
         "Enrico": {
             "Tier": 1,
-            "Permission": [4303421179],
+            "Permission": [4303421179, 4303421180],
             "ImageID": 79964775182960
         },
         "Sukuna": {
             "Tier": 100,
-            "Permission": [4303421179],
+            "Permission": [4303421179, 4303421180],
             "ImageID": 125075795223226
         },
         "Subaru": {
