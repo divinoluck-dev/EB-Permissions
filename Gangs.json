@@ -58,7 +58,7 @@
    "Colors": {
       "Nome": {
         "Letra": [0, 0, 0],
-        "Borda": [[1, 1, 1]]
+        "Borda": [1, 1, 1]
       },
       "Patente": {
         "Letra": [0, 0, 0],
