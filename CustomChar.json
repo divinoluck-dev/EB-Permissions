@@ -13,7 +13,7 @@
     "Characters": {
         "Baki": {
             "Tier": 1,
-            "Permission": [1, 1, 1],
+            "Permission": [4303421179],
             "ImageID": 103953194753301
         },
         "Meliodas": {
@@ -23,12 +23,12 @@
         },
         "Enrico": {
             "Tier": 1,
-            "Permission": [1, 1],
+            "Permission": [4303421179],
             "ImageID": 79964775182960
         },
         "Sukuna": {
             "Tier": 100,
-            "Permission": [1],
+            "Permission": [4303421179],
             "ImageID": 125075795223226
         },
         "Subaru": {
