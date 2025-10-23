@@ -23,8 +23,7 @@
             "Tier": 1,
             "Permission": [1, 1, 1, 1, 1],
             "ImageID": 103610124487112
-                },
-
+        },
         "D4C": {
             "Tier": 100,
             "Permission": [],
@@ -60,11 +59,6 @@
             "Permission": [1],
             "ImageID": 112903681985570
         },
-        "D4C": {
-            "Tier": 100,
-            "Permission": [],
-            "ImageID": 116216959518179
-        },
         "Escanor": {
             "Tier": 1,
             "Permission": [],
@@ -74,6 +68,11 @@
             "Tier": 100,
             "Permission": [],
             "ImageID": 102136822840768
+        },
+        "Johnny": {
+            "Tier": 100,
+            "Permission": [],
+            "ImageID": 5026879765
         }
     }
 }
