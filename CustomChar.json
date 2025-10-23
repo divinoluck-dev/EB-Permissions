@@ -23,6 +23,12 @@
             "Tier": 1,
             "Permission": [1, 1, 1, 1, 1],
             "ImageID": 103610124487112
+                },
+
+        "D4C": {
+            "Tier": 100,
+            "Permission": [],
+            "ImageID": 116216959518179
         },
         "Enrico": {
             "Tier": 1,
