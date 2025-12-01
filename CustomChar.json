@@ -1,78 +1,37 @@
 {
-    "PlayerPermission": {
-        "ZzLuckZzx": {
-            "Tier": 1000
-        },
-        "XXXXxTREMBALA1": {
-            "Tier": 100
-        },
-        "DarkLuffy128": {
-            "Tier": 1000
-        },
-        "lucas68731": {
-            "Tier": 1
-        }
+  "PlayerPermission": {
+    "Capsmongy": {
+      "PlayerTier": 1000
     },
-    "Characters": {
-        "Baki": {
-            "Tier": 1,
-            "Permission": [4303421179],
-            "ImageID": 103953194753301
-        },
-        "Meliodas": {
-            "Tier": 1,
-            "Permission": [1, 1, 1, 1, 1],
-            "ImageID": 103610124487112
-        },
-        "D4C": {
-            "Tier": 100,
-            "Permission": [],
-            "ImageID": 116216959518179
-        },
-        "Enrico": {
-            "Tier": 1,
-            "Permission": [4303421179, 4303421180],
-            "ImageID": 79964775182960
-        },
-        "Sukuna": {
-            "Tier": 100,
-            "Permission": [4303421179, 4303421180],
-            "ImageID": 125075795223226
-        },
-        "Subaru": {
-            "Tier": 1,
-            "Permission": [],
-            "ImageID": 103991282927018
-        },
-        "Armin": {
-            "Tier": 1000,
-            "Permission": [1],
-            "ImageID": 105648698997308
-        },
-        "Giorno": {
-            "Tier": 1000,
-            "Permission": [],
-            "ImageID": 112903681985570
-        },
-        "Guissi": {
-            "Tier": 1000,
-            "Permission": [1],
-            "ImageID": 112903681985570
-        },
-        "Escanor": {
-            "Tier": 1,
-            "Permission": [],
-            "ImageID": 113089955878697
-        },
-        "Toji": {
-            "Tier": 100,
-            "Permission": [],
-            "ImageID": 102136822840768
-        },
-        "Johnny": {
-            "Tier": 100,
-            "Permission": [],
-            "ImageID": 5026879765
-        }
+    "k00KIe": {
+      "PlayerTier": 1000
+    },
+    "logui122_X": {
+      "PlayerTier": 1000
+    },
+    "ZzLuckZzx": {
+      "PlayerTier": 100
+    },
+    "Dark_shadow3251": {
+      "PlayerTier": 100
+    },
+     "Lord12345Baby": {
+      "PlayerTier": 1
+    },
+     "Vrilusao": {
+      "PlayerTier": 1
     }
+  },
+  "Characters": {
+    "Yoriichi": {
+      "Tier": 1,
+      "Permission": [3859421439],
+      "Icon": 70445483214940
+    },
+    "Kokushibo": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": 70974411342850
+    }
+  }
 }
