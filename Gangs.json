@@ -46,7 +46,7 @@
   "35898106": {
     "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick", "Raio"],
+    "Itens": ["Kokusen", "FireKick", "Kirin"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
