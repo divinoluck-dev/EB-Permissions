@@ -23,7 +23,7 @@
     }
   },
   "Characters": {
-    "Yoriichi": {
+    "diavolo": {
       "Tier": 1,
       "Permission": [3859421439],
       "Icon": 70445483214940
@@ -37,6 +37,31 @@
       "Tier": 1,
       "Permission": [],
       "Icon": 95688827318191
+    },
+    "eren caps": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": 70974411342850
+    },
+    "gojo": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": 70974411342850
+    },
+    "subaru": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": 70974411342850
+    },
+    "sukunaheian": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": 70974411342850
+    },
+    "zake": {
+      "Tier": 1,
+      "Permission": [],
+      "Icon": 70974411342850
     }
   }
 }
