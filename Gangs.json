@@ -2,7 +2,7 @@
   "11199941": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": ["TomanKick", "Kirin","PisaoLuas"],
+    "Itens": ["TomanKick", "Kirin","PisaoLuas","HinoKamiKagura","CloneDasSombras"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
