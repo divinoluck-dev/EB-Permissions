@@ -1,8 +1,8 @@
 {
-  "11199941": {
+  "35780585": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": ["TomanKick", "Kirin","PisaoLuas","HinoKamiKagura","CloneDasSombras"],
+    "Itens": ["TomanKick", "Raio", "ImpulsoSombrio", "FP_Run", "CloneDasSombras", "HinokamiKagura", "Susanoo", "Rinnegan", "ChuteDeGelo"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -10,21 +10,21 @@
     }
   },
 
-  "944451740": {
-    "Name": "Manicas",
+  "192921763": {
+    "Name": "Jujutsu Kaisen",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick", "Raio"],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "MundoTransparente", "Collateral"],
     "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [251, 125, 255] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [251, 125, 255] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [251, 125, 255] }
+      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] }
     }
   },
 
-  "33284171": {
+  "34762763": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": ["PisaoLuas"],
+    "Itens": ["PisaoLuas", "FP_Run", "Collateral"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -32,21 +32,10 @@
     }
   },
 
-  "35655971": {
-    "Name": "Yakuza Gangue",
+  "34976153": {
+    "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [154, 0, 0] }
-    }
-  },
-
-  "35898106": {
-    "Name": "黒翼Fallen Angels黒翼",
-    "Health": 1000,
-    "Itens": ["Kokusen", "FireKick", "Kirin"],
+    "Itens": ["PisaoLuas", "Collateral", "FP_Run"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -54,65 +43,36 @@
     }
   },
 
-   "529553621": {
-    "Name": "Valhalla | New Generation",
+  "35589051": {
+    "Name": "力Kanto Manji力",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "HinokamiKagura", "Collateral"], "MundoTransparente"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
+      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
+    }
+  },
+  
+  "35898106": {
+    "Name": "黒翼Fallen Angels黒翼",
+    "Health": 1000,
+    "Itens": ["Kokusen", "FireKick", "Kirin", "Susanoo", "BlizzardThorns", "Sandevistan", "Raio", "Rinnegan"],
+    "Colors": {
+      "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
+      "Team": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] }
     }
   },
 
-    "34762763": {
-    "Name": "Amendobobos",
+  "34072792": {
+    "Name": "Yami Yamaguchi",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
-    }
-  },
-   "1034570238": {
-    "Name": "Eternity Angel’s",
-    "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] }
-    }
-  },
-   "33633010": {
-    "Name": "SoloNoCB",
-    "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [153, 0, 0] }
-    }
-  },
-   "34976153": {
-    "Name": "Heiwa",
-    "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
-    "Colors": {
-      "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
-      "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
-    }
-  },
-   "33869764": {
-    "Name": "Legião Arcana",
-    "Health": 1000,
-    "Itens": ["Kokusen", "FireKick"],
-    "Colors": {
-      "Nome": { "Texto": [255, 255, 255], "Borda": [255, 255, 0] },
-      "Patente": { "Texto": [255, 255, 255], "Borda": [255, 255, 0] },
-      "Team": { "Texto": [255, 255, 255], "Borda": [255, 255, 0] }
     }
   }
 }
