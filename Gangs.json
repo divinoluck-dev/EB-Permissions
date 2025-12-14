@@ -2,17 +2,7 @@
   "35780585": {
     "Name": "Tokyo Manji Gang",
     "Health": 1000,
-    "Itens": [
-      "TomanKick",
-      "Raio",
-      "ImpulsoSombrio",
-      "FP_Run",
-      "CloneDasSombras",
-      "HinokamiKagura",
-      "Susanoo",
-      "Rinnegan",
-      "ChuteDeGelo"
-    ],
+    "Itens": ["TomanKick", "Raio", "ImpulsoSombrio", "FP_Run", "CloneDasSombras", "HinokamiKagura", "Susanoo", "Rinnegan", "ChuteDeGelo"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
@@ -23,16 +13,7 @@
   "192921763": {
     "Name": "Jujutsu Kaisen",
     "Health": 1000,
-    "Itens": [
-      "Kokusen",
-      "FireKick",
-      "Rinnegan",
-      "Susanoo",
-      "ChuteDeGelo",
-      "Raio",
-      "MundoTransparente",
-      "Collateral"
-    ],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "MundoTransparente", "Collateral"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 238, 0] },
@@ -43,11 +24,7 @@
   "34762763": {
     "Name": "Luas Superiores",
     "Health": 1000,
-    "Itens": [
-      "PisaoLuas",
-      "FP_Run",
-      "Collateral"
-    ],
+    "Itens": ["PisaoLuas", "FP_Run", "Collateral"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -58,11 +35,7 @@
   "34976153": {
     "Name": "SoloNoCB",
     "Health": 1000,
-    "Itens": [
-      "PisaoLuas",
-      "Collateral",
-      "FP_Run"
-    ],
+    "Itens": ["PisaoLuas", "Collateral", "FP_Run"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -73,37 +46,18 @@
   "35589051": {
     "Name": "力Kanto Manji力",
     "Health": 1000,
-    "Itens": [
-      "Kokusen",
-      "FireKick",
-      "Rinnegan",
-      "Susanoo",
-      "ChuteDeGelo",
-      "Raio",
-      "HinokamiKagura",
-      "Collateral",
-      "MundoTransparente"
-    ],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "HinokamiKagura", "Collateral"], "MundoTransparente"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Team": { "Texto": [0, 0, 0], "Borda": [255, 255, 0] }
     }
   },
-
+  
   "35898106": {
     "Name": "黒翼Fallen Angels黒翼",
     "Health": 1000,
-    "Itens": [
-      "Kokusen",
-      "FireKick",
-      "Kirin",
-      "Susanoo",
-      "BlizzardThorns",
-      "Sandevistan",
-      "Raio",
-      "Rinnegan"
-    ],
+    "Itens": ["Kokusen", "FireKick", "Kirin", "Susanoo", "BlizzardThorns", "Sandevistan", "Raio", "Rinnegan"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
@@ -114,14 +68,7 @@
   "34072792": {
     "Name": "Yami Yamaguchi",
     "Health": 1000,
-    "Itens": [
-      "Kokusen",
-      "FireKick",
-      "Rinnegan",
-      "Susanoo",
-      "ChuteDeGelo",
-      "Raio"
-    ],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
