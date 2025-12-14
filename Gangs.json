@@ -46,7 +46,7 @@
   "35589051": {
     "Name": "力Kanto Manji力",
     "Health": 1000,
-    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "HinokamiKagura", "Collateral"], "MundoTransparente"],
+    "Itens": ["Kokusen", "FireKick", "Rinnegan", "Susanoo", "ChuteDeGelo", "Raio", "HinokamiKagura", "Collateral", "MundoTransparente"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [255, 255, 255] },
