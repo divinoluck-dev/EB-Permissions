@@ -3,65 +3,56 @@
     "ZzLuckZzx": {
       "PlayerTier": 1000
     },
-    "Vinicius_24825": {
+    "DarkLuffy128": {
       "PlayerTier": 1000
     },
-    "logui122_X": {
+     "XXXXxTREMBALA1": {
       "PlayerTier": 1000
     },
-    "ZzLuckZzx": {
-      "PlayerTier": 100
-    },
-    "XXXXxTREMBALA1": {
-      "PlayerTier": 100
-    },
-     "Lord12345Baby": {
-      "PlayerTier": 1
-    },
-     "Vrilusao": {
+    "hdhegskdv": {
       "PlayerTier": 1
     }
   },
   "Characters": {
     "diavolo": {
-      "Tier": 1,
-      "Permission": [3859421439],
-      "Icon": 70445483214940
+      "Tier": 100,
+      "Permission": [],
+      "Icon": 104230716807433
     },
     "eren": {
       "Tier": 1,
       "Permission": [],
-      "Icon": 128451732088319
+      "Icon": 84446701462066
     },
     "denji": {
-      "Tier": 1,
+      "Tier": 100,
       "Permission": [],
-      "Icon": 95688827318191
+      "Icon": 87649068882926
     },
-    "eren caps": {
-      "Tier": 1,
+     "jotaro": {
+      "Tier": 100,
       "Permission": [],
-      "Icon": 70974411342850
+      "Icon": 7138899172
     },
     "gojo": {
       "Tier": 1,
       "Permission": [],
-      "Icon": 70974411342850
+      "Icon": 109085672677744
     },
     "subaru": {
-      "Tier": 1,
+      "Tier": 100,
       "Permission": [],
-      "Icon": 70974411342850
+      "Icon": 107932992815962
     },
     "sukunaheian": {
-      "Tier": 1,
+      "Tier": 1000,
       "Permission": [],
-      "Icon": 70974411342850
+      "Icon": 76122158265995
     },
     "zake": {
-      "Tier": 1,
+      "Tier": 100,
       "Permission": [],
-      "Icon": 70974411342850
+      "Icon": 119271049218295
     }
   }
 }
