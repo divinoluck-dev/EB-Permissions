@@ -1,68 +1,60 @@
 {
   "PlayerPermission": {
-    "ZzLuckZzx": {
-      "PlayerTier": 1000
-    },
-    "DarkLuffy128": {
-      "PlayerTier": 1000
-    },
-     "XXXXxTREMBALA1": {
-      "PlayerTier": 1000
-    },
-    "hdhegskdv": {
-      "PlayerTier": 1
-    }
+    "LuckTdt": { "Tier": 5 },
+
+    "Admin1": { "Tier": 5 },
+    "Mod1": { "Tier": 3 },
+    "Player1": { "Tier": 1 }
   },
+
   "Characters": {
-    "diavolo": {
-      "Tier": 100,
-      "Permission": [],
-      "Icon": 104230716807433
-    },
-    "eren": {
+    "Armin": {
       "Tier": 1,
-      "Permission": [],
-      "Icon": 84446701462066
+      "Permission": []
     },
-    "denji": {
-      "Tier": 100,
-      "Permission": [],
-      "Icon": 87649068882926
+    "Baki": {
+      "Tier": 2,
+      "Permission": []
     },
-     "jotaro": {
-      "Tier": 100,
-      "Permission": [],
-      "Icon": 7138899172
+    "ColossalTitan": {
+      "Tier": 5,
+      "Permission": []
     },
-    "gojo": {
+    "D4C": {
+      "Tier": 4,
+      "Permission": []
+    },
+    "Enrico": {
+      "Tier": 3,
+      "Permission": []
+    },
+    "Escanor": {
+      "Tier": 4,
+      "Permission": []
+    },
+    "Giorno": {
+      "Tier": 3,
+      "Permission": []
+    },
+    "Giussi": {
       "Tier": 1,
-      "Permission": [],
-      "Icon": 109085672677744
+      "Permission": []
     },
-    "subaru": {
-      "Tier": 100,
-      "Permission": [],
-      "Icon": 107932992815962
+    "Meliodas": {
+      "Tier": 3,
+      "Permission": []
     },
-    "sukunaheian": {
-      "Tier": 1000,
-      "Permission": [],
-      "Icon": 76122158265995
+    "Subaru": {
+      "Tier": 2,
+      "Permission": []
     },
-    "zake": {
-      "Tier": 100,
-      "Permission": [],
-      "Icon": 119271049218295
+    "Sukuna": {
+      "Tier": 5,
+      "Permission": []
     },
-    "sung": {
-      "Tier": 100,
-      "Permission": [],
-      "Icon": 119271049218295
-   },
-    "tomura": {
-      "Tier": 100,
-      "Permission": [],
-      "Icon": 119271049218295
+    "Toji": {
+      "Tier": 4,
+      "Permission": []
     }
   }
 }
