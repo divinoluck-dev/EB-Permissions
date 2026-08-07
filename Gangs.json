@@ -21,10 +21,10 @@
     }
   },
 
-  "34762763": {
-    "Name": "Luas Superiores",
+  "49774869": {
+    "Name": "| Hashiras • Syndicaty |",
     "Health": 1000,
-    "Itens": ["PisaoLuas", "FP_Run", "Collateral"],
+    "Itens": ["PisaoLuas", "FP_Run", "Collateral", "ChuteDeGelo"],
     "Colors": {
       "Nome": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
       "Patente": { "Texto": [0, 0, 0], "Borda": [85, 0, 0] },
